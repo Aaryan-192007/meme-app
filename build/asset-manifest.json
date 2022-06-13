@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/make-memes/static/js/main.9227e14b.js",
+    "index.html": "/make-memes/index.html",
+    "main.9227e14b.js.map": "/make-memes/static/js/main.9227e14b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9227e14b.js"
+  ]
+}
